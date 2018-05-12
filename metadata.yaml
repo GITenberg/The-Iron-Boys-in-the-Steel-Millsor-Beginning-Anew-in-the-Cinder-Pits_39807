@@ -1,0 +1,24 @@
+_repo: The-Iron-Boys-in-the-Steel-Millsor-Beginning-Anew-in-the-Cinder-Pits_39807
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39807-h/images/iron4cover.jpg
+creator:
+  author:
+    agent_name: Mears, James R.
+    gutenberg_agent_id: '39762'
+    url: http://www.gutenberg.org/2009/agents/39762
+description: ''
+gutenberg_issued: '2012-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Steel industry and trade -- Juvenile fiction'
+title: The Iron Boys in the Steel Mills; or, Beginning Anew in the Cinder Pits
+url: http://www.gutenberg.org/ebooks/39807
